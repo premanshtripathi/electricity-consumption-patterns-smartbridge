@@ -107,13 +107,27 @@ def home():
                     <span class="font-bold text-lg tracking-wide text-white">EnergyGrid<span class="text-[#00D2FF]">.ai</span></span>
                 </div>
                 <div class="flex gap-4 items-center">
-                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-semibold text-emerald-400">
-                        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                        MySQL Connected
-                    </div>
-                    <div class="px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-xs font-semibold text-gray-300 shadow-inner">
-                        Premansh | CS '28
-                    </div>
+                    <div class="hidden md:flex gap-2 items-center">
+    <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-[11px] font-semibold tracking-wide text-gray-300 shadow-inner">
+        <span class="w-1.5 h-1.5 rounded-full bg-blue-400"></span>
+        PYTHON
+    </div>
+    
+    <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-[11px] font-semibold tracking-wide text-gray-300 shadow-inner">
+        <span class="w-1.5 h-1.5 rounded-full bg-orange-400"></span>
+        MYSQL
+    </div>
+    
+    <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-[11px] font-semibold tracking-wide text-gray-300 shadow-inner">
+        <span class="w-1.5 h-1.5 rounded-full bg-indigo-400"></span>
+        TABLEAU
+    </div>
+
+    <div class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white/5 border border-white/10 text-[11px] font-semibold tracking-wide text-gray-300 shadow-inner">
+        <span class="w-1.5 h-1.5 rounded-full bg-gray-400"></span>
+        FLASK
+    </div>
+</div>
                 </div>
             </div>
         </nav>
