@@ -7,12 +7,12 @@
 ### Click the image below to watch the demonstration of the live website dashboard, data architecture, and SQL backend:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=vYBtjD1XsFg">
-    <img src="https://img.youtube.com/vi/vYBtjD1XsFg/maxresdefault.jpg" alt="EnergyGrid Analytics Demo" width="600">
+  <a href="https://www.youtube.com/watch?v=gHcxB4jhdjU">
+    <img src="https://img.youtube.com/vi/gHcxB4jhdjU/maxresdefault.jpg" alt="EnergyGrid Analytics Demo" width="600">
   </a>
 </div>
 
-## Project Explanation Video Link - https://www.youtube.com/watch?v=vYBtjD1XsFg
+## Project Explanation Video Link - https://www.youtube.com/watch?v=gHcxB4jhdjU
 
 ## 📖 1. Project Overview
 This project provides an end-to-end data engineering and visualization solution to analyze the shift in India's power consumption before, during, and after the 2020 COVID-19 lockdowns. The analysis tracks the transition from a pre-pandemic baseline through the industrial shutdown and maps the subsequent economic recovery across different states and geographic regions.

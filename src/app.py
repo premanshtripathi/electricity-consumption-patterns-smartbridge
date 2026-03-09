@@ -194,7 +194,7 @@ def home():
     <div class="max-w-4xl mx-auto aspect-video rounded-xl overflow-hidden border border-white/10 shadow-2xl shadow-black/60 ring-1 ring-white/5">
         <iframe 
             class="w-full h-full" 
-            src="https://www.youtube.com/embed/vYBtjD1XsFg"
+            src="https://www.youtube.com/embed/gHcxB4jhdjU"
             title="Project Demo" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
